@@ -1,0 +1,7 @@
+# 安装包走 GitHub Releases，不入仓库（单文件 224MB，进 git 会永久污染历史）
+*.exe
+*.blockmap
+release/
+
+node_modules/
+*.log
