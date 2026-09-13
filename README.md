@@ -1,5 +1,7 @@
 # ClipJob · AI 求职投递助手
 
+> **作者：吴天赐（Tianci Wu）** ｜ 个人作品 ｜ 2026
+
 ![platform](https://img.shields.io/badge/platform-Windows-0078D6)
 ![stack](https://img.shields.io/badge/Electron%2033%20%2B%20React%2018%20%2B%20TypeScript-3178C6)
 ![tests](https://img.shields.io/badge/tests-212%20passing-3FB950)
